@@ -12,10 +12,20 @@
 
 } */
 
+.navbar a{
+    float:left;
+    text-align: center;
+}
 .logo{
     color: white;
 }
 .py-1{
     float: left;
     color: white;
+}
+
+#my-tabs.nav-tabs > a {
+    padding: 8px 16px;
+    margin:0;
+    margin-right: -4px;
 }
